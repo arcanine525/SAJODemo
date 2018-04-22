@@ -1,0 +1,3 @@
+rootProject.name = 'SAJODemo'
+
+include ':app'
